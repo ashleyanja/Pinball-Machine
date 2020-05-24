@@ -1,0 +1,188 @@
+@font-face {
+    font-family: 'caviar dreams';
+    src: url('../fonts/caviardreams-webfont.woff') format('woff'),
+         url('../fonts/caviardreams-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'caviar dreams italic';
+    src: url('../fonts/caviardreams_italic-webfont.woff') format('woff'),
+         url('../fonts/caviardreams_italic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'pacifico';
+    src: url('../fonts/pacifico-webfont.woff') format('woff'),
+         url('../fonts/pacifico-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'timoteo';
+    src: url('../fonts/timoteo-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'comfortaa';
+    src: url('../fonts/comfortaa-webfont.woff') format('woff'),
+         url('../fonts/comfortaa-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'comfortaa light';
+    src: url('../fonts/comfortaa-light-webfont.woff') format('woff'),
+         url('../fonts/comfortaa-light-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'comfortaa bold';
+    src: url('../fonts/comfortaa-bold-webfont.woff') format('woff'),
+         url('../fonts/comfortaa-bold-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bebasneue';
+    src: url('../fonts/bebasneue-regular-webfont.woff') format('woff'),
+         url('../fonts/bebasneue-regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'dolce vita';
+    src: url('../fonts/dolce_vita-webfont.woff') format('woff'),
+         url('../fonts/dolce_vita-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'dolce vita light';
+    src: url('../fonts/dolce_vita_light-webfont.woff') format('woff'),
+         url('../fonts/dolce_vita_light-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'dolce vita bold';
+    src: url('../fonts/dolce_vita_heavy_bold-webfont.woff') format('woff'),
+         url('../fonts/dolce_vita_heavy_bold-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'rommantis';
+    src: url('../fonts/rommantis-webfont.woff') format('woff'),
+         url('../fonts/rommantis-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'fjallaone';
+    src: url('../fonts/fjallaone-webfont.woff') format('woff'),
+         url('../fonts/fjallaone-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'montserrat';
+    src: url('../fonts/montserrat-regular.woff') format('woff'),
+         url('../fonts/montserrat-regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'montserrat light';
+    src: url('../fonts/montserrat-light.woff') format('woff'),
+         url('../fonts/montserrat-light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'montserrat extralight';
+    src: url('../fonts/montserrat-extralight.woff') format('woff'),
+         url('../fonts/montserrat-extralight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'lobster';
+    src: url('../fonts/lobster-webfont.woff') format('woff'),
+         url('../fonts/lobster-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'helvetica-neue lt pro 33 thin extended';
+    src: url('../fonts/helvetica-neue-lt-pro-33-thin-extended-webfont.woff') format('woff'),
+         url('../fonts/helvetica-neue-lt-pro-33-thin-extended-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'helvetica-neue lt pro 55';
+    src: url('../fonts/helvetica-neue-lt-pro-55-webfont.woff') format('woff'),
+         url('../fonts/helvetica-neue-lt-pro-55-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Helvetica Neue LT Pro 53 Extended';
+    src: url('../fonts/HelveticaNeueLTPro-Ex.woff') format('woff'),
+         url('../fonts/HelveticaNeueLTPro-Ex.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Helvetica Neue LT Pro 43 Light Extended';
+    src: url('../fonts/HelveticaNeueLTPro-LtEx.woff') format('woff'),
+         url('../fonts/HelveticaNeueLtPro-LtEx.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'helvetica-neue lt pro 83 heavy extended';
+    src: url('../fonts/helvetica-neue-lt-pro-83-heavy-extended-webfont.woff') format('woff'),
+         url('../fonts/helvetica-neue-lt-pro-83-heavy-extended-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'helvetica-neue lt pro 93 black extended';
+    src: url('../fonts/helvetica-neue-lt-pro-93-black-extended-webfont.woff') format('woff'),
+         url('../fonts/helvetica-neue-lt-pro-93-black-extended-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'josefin sans';
+    src: url('../fonts/josefinsans-regular-webfont.woff') format('woff'),
+         url('../fonts/josefinsans-regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'josefin sans thin';
+    src: url('../fonts/josefinsans-thin-webfont.woff') format('woff'),
+         url('../fonts/josefinsans-thin-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'josefin sans light';
+    src: url('../fonts/josefinsans-light-webfont.woff') format('woff'),
+         url('../fonts/josefinsans-light-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'josefin sans extralight';
+    src: url('../fonts/josefinsans-extralight-webfont.woff') format('woff'),
+         url('../fonts/josefinsans-extralight-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
